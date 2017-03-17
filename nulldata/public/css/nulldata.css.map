@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACT,KAAK,EAAE,KAAK;EACZ,YAAY,EAAE,IAAI",
+"sources": ["nulldata.scss"],
+"names": [],
+"file": "nulldata.css"
+}
